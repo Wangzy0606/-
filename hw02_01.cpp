@@ -11,7 +11,7 @@ int main() {
 	float V = pi * r * r * h;
 
 	cout << "S = " << S << endl;
-	cout << "V =" << V << endl;
+	cout << "V = " << V << endl;
 
 	return 0;
 }
